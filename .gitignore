@@ -1,0 +1,3 @@
+# Ignore Kubernetes secrets
+*-secret.yaml
+*secrets*.yaml
