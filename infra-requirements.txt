@@ -1,0 +1,6 @@
+# Spatial Tourism Project - System Dependencies
+# Format: tool_name|install_instruction_for_cli
+
+docker|winget install Docker.DockerCLI
+kubectl|winget install Kubernetes.kubectl
+k3d|curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | bash
